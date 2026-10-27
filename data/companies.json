@@ -1,0 +1,1546 @@
+{
+  "companies": [
+    {
+      "company": "Lloyds Bank",
+      "sector": "UK Banking",
+      "voice_pain": {
+        "metric": "Average wait to reach the fraud/scam reporting line (Which? mystery-shop, 144 calls across 11 banks)",
+        "value": "19m 45s vs 10m 51s all-bank average",
+        "date": "Test March 2022; published Which? May 2022",
+        "source_url": "https://www.which.co.uk/news/article/fraud-victims-left-hanging-on-the-telephone-which-finds-au81K0S3iFvc"
+      },
+      "quotes": [
+        {
+          "text": "Waiting for 1hour + to connect me to the anti fraud department\nUseless bank .\nIf you re new to them don’t apply for a credit card or loan because they will automatically block your transactions.",
+          "source_url": "https://uk.trustpilot.com/review/lloydsbank.com"
+        }
+      ],
+      "intent_signals": [
+        {
+          "type": "hiring",
+          "detail": "Lloyds targeting 1,000+ new AI roles across 2026, with ~300 'agentic AI' roles to fill by September explicitly to roll out customer-facing tools including its AI financial assistant (already reaching 500,000+ Bank of Scotland customers). Sharon Doherty (Chief People & Places Officer): 'AI is becoming an increasingly important part of how we support customers.'",
+          "date": "22 June 2026",
+          "source_url": "https://contact-centres.com/lloyds-expands-agentic-ai-capability-end-of-the-contact-centre-agent/"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "FCA Consumer Duty expects call waits/transfers not to create 'unreasonable friction'; motor-finance complaints pause lifts 31 May 2026 with the FCA's consolidated complaints return following from 2027 - pushing banks toward scalable compliant voice automation.",
+          "date": "2025/2026 (motor-finance pause lifts 31 May 2026)",
+          "source_url": "https://www.fca.org.uk/news/statements/pause-motor-finance-complaints-handling-lift-31-may-2026"
+        }
+      ],
+      "buyer": {
+        "role": "Chief Customer Officer, Retail Bank",
+        "name": null,
+        "source_url": null
+      },
+      "intent_score": 95,
+      "score_rationale": "Explicit, dated, company-specific agentic-AI hiring wave aimed at customer-facing tooling, sitting on top of the worst fraud-line wait in the Which? test and a named CX buyer.",
+      "why_now": "Lloyds is racing to fill ~300 agentic-AI roles by September to put AI in front of customers - that's the timing. Historic Which? testing flagged its fraud line as the slowest of 11 banks: the shape of the problem voice AI is built to close.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "target_role": "Chief Customer Officer",
+      "buyers": [
+        {
+          "name": "Jas Singh (Jasjyot Singh OBE)",
+          "title": "CEO, Consumer Relationships",
+          "linkedin": "https://uk.linkedin.com/in/jasjyot-singh-obe-b24640",
+          "one_liner": "Owns deepening customer relationships and the digital + branch experience across ~25m retail customers; 19 years at the Group, OBE, sits on the UK Finance board.",
+          "source": "https://www.ukfinance.org.uk/our-people/jas-singh",
+          "confidence": "high"
+        }
+      ],
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions.",
+      "pain_sources": [
+        {
+          "platform": "Trustpilot",
+          "detail": "1.6★ 'Bad' - group complaint profile",
+          "source_url": "https://www.trustpilot.com/review/www.lloydsbankinggroup.com"
+        },
+        {
+          "platform": "News",
+          "detail": "App outage - ~4,000 Downdetector reports (Feb 2025)",
+          "source_url": "https://www.ibtimes.co.uk/lloyds-bank-halifax-bank-scotland-down-massive-reports-online-apps-crashing-recorded-it-1739862"
+        }
+      ]
+    },
+    {
+      "company": "NatWest",
+      "sector": "UK Banking",
+      "voice_pain": {
+        "metric": "Average wait to reach the fraud/scam reporting line (Which? mystery-shop, 144 calls across 11 banks)",
+        "value": "7m 26s vs 10m 51s all-bank average",
+        "date": "Test March 2022; published Which? May 2022",
+        "source_url": "https://www.which.co.uk/news/article/fraud-victims-left-hanging-on-the-telephone-which-finds-au81K0S3iFvc"
+      },
+      "quotes": [
+        {
+          "text": "Tried to register for online banking. Registration failed. Spent hours trying to speak to someone. Went into the bank Saturday they cant do it as its Saturday... After hours finally got hold of another human being who tells me you cant even do this if I do download the app",
+          "source_url": "https://uk.trustpilot.com/review/www.natwest.com"
+        },
+        {
+          "text": "Nat west continue to be the worst customer service bank and worst app created. Delays. Chat gpt answers and asking to call advisor when call centre does not answering",
+          "source_url": "https://uk.trustpilot.com/review/www.natwest.com"
+        }
+      ],
+      "intent_signals": [
+        {
+          "type": "hiring",
+          "detail": "NatWest actively hiring conversational-AI / digital-CX roles tied to its 'Cora' chatbot and an internal 'AI Centre of Excellence' (Conversation Analyst, Customer Journey Manager). NatWest states Cora handles ~1.4 million extra conversations per month. (Evergreen careers page - live but undated.)",
+          "date": "Accessed June 2026",
+          "source_url": "https://jobs.natwestgroup.com/posts/cora-helping-more-customers-than-ever-with-no-wait-time"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "FCA Consumer Duty friction expectations plus 31 May 2026 motor-finance complaints surge and 2027 Unified Complaints Return drive demand for scalable voice automation.",
+          "date": "2025/2026",
+          "source_url": "https://www.fca.org.uk/news/statements/pause-motor-finance-complaints-handling-lift-31-may-2026"
+        }
+      ],
+      "buyer": {
+        "role": "Chief Customer & Operations Officer (role created Sept 2025)",
+        "name": null,
+        "source_url": "https://www.natwestgroup.com/who-we-are/board-and-governance/executive-management-team.html"
+      },
+      "intent_score": 88,
+      "score_rationale": "Live conversational-AI hiring around Cora plus a brand-new Chief Customer & Operations Officer mandate; voice pain real but milder than Lloyds and buyer unnamed.",
+      "why_now": "NatWest is staffing a Cora-focused AI team and created a new Chief Customer & Operations Officer role - the timing. Customers still describe being bounced to a call centre that doesn't answer: the pattern to fix.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "target_role": "Chief Customer Officer",
+      "buyers": [
+        {
+          "name": "James Holian",
+          "title": "Chief Customer & Operations Officer",
+          "linkedin": null,
+          "one_liner": "Appointed to NatWest's newly created Chief Customer & Operations Officer role (Oct 2025) to drive the bank-wide customer agenda across all three franchises plus fraud and operations; ex-McKinsey, ex-COO Commercial & Private Banking.",
+          "source": "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/our-updates/2025/sep/natwest-group-appoints-new-chief-customer-and-operating-officer-.html",
+          "confidence": "high"
+        },
+        {
+          "name": "Solange Chamberlain",
+          "title": "CEO, Retail Banking",
+          "linkedin": "https://www.linkedin.com/in/solangedivechamberlain/",
+          "one_liner": "Appointed CEO Retail Banking (Jun 2025); owns strategy, operations and performance of the retail franchise and payments; joined 2019, ex-COO Commercial Bank, ex-Lloyds, ex-Citigroup.",
+          "source": "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/our-updates/2025/jun/natwest-group-appoints-solange-chamberlain-as-ceo-retail-banking.html",
+          "confidence": "high"
+        }
+      ],
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions.",
+      "pain_sources": [
+        {
+          "platform": "Trustpilot",
+          "detail": "1.4★ 'Bad', 8,000+ reviews",
+          "source_url": "https://uk.trustpilot.com/review/www.natwest.com"
+        },
+        {
+          "platform": "MoneySavingExpert",
+          "detail": "'increasingly difficult to talk to somebody'",
+          "source_url": "https://forums.moneysavingexpert.com/discussion/6491612/natwest-whats-the-best-alternative-which-also-has-good-customer-service"
+        }
+      ]
+    },
+    {
+      "company": "O2 (Virgin Media O2)",
+      "sector": "UK Telecoms",
+      "voice_pain": {
+        "metric": "Average call waiting time - mobile (Ofcom Comparing Customer Service 2025; longest of all mobile providers)",
+        "value": "3m 27s",
+        "date": "2024 calendar year (Ofcom report published May 2025)",
+        "source_url": "https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/comparing-service-quality/2025/comparing-customer-service-report-2025.pdf"
+      },
+      "quotes": [
+        {
+          "text": "Absolutely ridiculous amount of options to go through just to speak to an advisor. Waited over 40 minutes to finally get through to an advisor, who didnt respond and then dropped the call. Will be switching providers.",
+          "source_url": "https://uk.trustpilot.com/review/www.o2.co.uk?sort=recency&stars=1"
+        },
+        {
+          "text": "he then puts me on hold for 15 minutes ( whilst I am still making my way to the concert venue ) and then hangs up on me!",
+          "source_url": "https://uk.trustpilot.com/review/www.o2.co.uk?sort=recency&stars=1"
+        }
+      ],
+      "intent_signals": [
+        {
+          "type": "ai-cx-announcement",
+          "detail": "Launched 'Lumi AI' across customer service (Jul 2025), routing on AWS; reports complaints cut by over 50% and around 70% of contacts resolved within 24 hours. Alan Stott, Director of Customer Contact, is driving it.",
+          "date": "28 July 2025",
+          "source_url": "https://news.virginmediao2.co.uk/virgin-media-o2-launches-new-ai-tools-to-supercharge-customer-services-and-better-help-most-vulnerable-customers/"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "Ofcom Q3 2025 data (pub. Feb 2026): O2 among most-complained-about pay-monthly mobile providers, driven specifically by COMPLAINT-HANDLING - a direct contact-centre pain point.",
+          "date": "Q3 2025; published 19 Feb 2026",
+          "source_url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-revealed-q3-2025"
+        }
+      ],
+      "buyer": {
+        "role": "Director, Customer Contact - Care, Sales & Retentions (contact-centre owner)",
+        "name": "Alan Stott",
+        "source_url": null
+      },
+      "intent_score": 85,
+      "score_rationale": "Active, dated AI-CX programme with a named contact-centre owner who is publicly quoted, plus the longest mobile wait of any provider and Ofcom complaint-handling pressure.",
+      "why_now": "O2 has the longest mobile hold time in the UK and is already buying AI-CX (Lumi AI) - Alan Stott has publicly committed to more contact-centre investment 'throughout 2026'.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "feed_query": "\"Virgin Media O2\" OR \"O2 UK\" (customer service OR complaints OR network OR outage)",
+      "target_role": "Customer Experience Director",
+      "buyers": [
+        {
+          "name": "Alan Stott",
+          "title": "Director of Customer Contact (Care, Sales & Retentions)",
+          "linkedin": "https://uk.linkedin.com/in/alan-stott-92b90ba4",
+          "one_liner": "Owns VMO2's care, sales & retentions contact-centre operations (role from Mar 2025); quoted on the push to 'market-leading customer service' and AI agent tooling - the direct operational buyer. VMO2 already runs 'Lumi AI' for customer service.",
+          "source": "https://news.virginmediao2.co.uk/",
+          "confidence": "high"
+        },
+        {
+          "name": "Emillie Hill",
+          "title": "Director, Total Customer Experience & Digital In Life",
+          "linkedin": "https://linkedin.com/in/emillie-hill-919b9682",
+          "one_liner": "Owns end-to-end CX and digital-in-life strategy; active CX speaker (CCW UK 2026) - the strategic counterpart to the contact-centre ops lead.",
+          "source": "https://news.virginmediao2.co.uk/",
+          "confidence": "high"
+        }
+      ],
+      "icp_motion": "both",
+      "icp_note": "Two plays. Direct: ElevenAgents in their own contact centre (Revolut model). Distribution: embed it and offer the voice across their network - the Deutsche Telekom 'Magenta' play, one deal worth thousands of direct sales.",
+      "pain_sources": [
+        {
+          "platform": "Trustpilot",
+          "detail": "1.3★ 'Bad', ~22,000 reviews (87% 1-star)",
+          "source_url": "https://uk.trustpilot.com/review/www.o2.co.uk"
+        },
+        {
+          "platform": "Ofcom",
+          "detail": "Top of mobile complaints, 7/100k (Q4 2025)",
+          "source_url": "https://mobilenewscwp.co.uk/news/article/o2-tops-ofcom-q1-complaints-table-as-price-rises-spark-customer-fury/"
+        },
+        {
+          "platform": "News",
+          "detail": "~40% price hike vs signalled - Martin Lewis (Apr 2026)",
+          "source_url": "https://www.moneysavingexpert.com/news/2025/10/o2-price-rise/"
+        }
+      ],
+      "distribution": {
+        "reach": "~24m VMO2 customers across mobile + broadband",
+        "product": "'Lumi AI' (launched Jul 2025, routed on AWS)",
+        "play": "VMO2 just launched Lumi AI - build the next version on ElevenAgents and offer the voice across the network. The Deutsche Telekom 'Magenta' play."
+      },
+      "platform": {
+        "reach": "mega",
+        "product": "strong",
+        "ecosystem": "channel"
+      }
+    },
+    {
+      "company": "BT",
+      "sector": "UK Telecoms",
+      "voice_pain": {
+        "metric": "Average call waiting time - broadband/landline (Ofcom Comparing Customer Service 2025; largest YoY increase, up 2m 34s)",
+        "value": "3m 33s",
+        "date": "2024 calendar year (Ofcom report published May 2025)",
+        "source_url": "https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/comparing-service-quality/2025/comparing-customer-service-report-2025.pdf"
+      },
+      "quotes": [
+        {
+          "text": "I've telephoned them several times today, only to be met by a message which says: \"at BT, we're committed to providing excellent customer service\" the message then goes on to say, \"due to high call volumes, we hope to be able to answer your call within the next 2 hours\". Is this a joke...... How can you say you're committed to customer service, if it's going to take you 2 hours to answer a customer's call?",
+          "source_url": "https://uk.trustpilot.com/review/bt.com?sort=recency&stars=1"
+        }
+      ],
+      "intent_signals": [
+        {
+          "type": "ai-cx-announcement",
+          "detail": "BT Group deployed Sprinklr's AI/genAI platform across BT, EE and internal channels; EE's virtual assistant 'Aimee' now handles ~60,000 conversations/week (up from ~30,000) with automation success approaching 50%. Roadmap: AI interaction summaries and real-time agent guidance. Harry Singh (MD Consumer Digital).",
+          "date": "12 December 2024",
+          "source_url": "https://newsroom.bt.com/bt-group-leans-on-ai-to-transform-customer-service-experience/"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "Ofcom's Q3 2025 complaints data (published Feb 2026) flags EE among the most-complained-about for fixed broadband - a public signal of service strain across the BT group.",
+          "date": "Q3 2025; published 19 Feb 2026",
+          "source_url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-revealed-q3-2025"
+        }
+      ],
+      "buyer": {
+        "role": "Director of Customer Service, BT Group",
+        "name": "Vanessa Pillay",
+        "source_url": "https://www.instituteofcustomerservice.com/head-to-head-with-vanessa-pillay-btgroup/"
+      },
+      "intent_score": 84,
+      "score_rationale": "Group-wide genAI CX programme with a named Director of Customer Service, and the single largest year-on-year jump in broadband wait time of any provider.",
+      "why_now": "BT's broadband hold time jumped the most of any UK provider while its hold message promises a 2-hour wait - and it's already mid-rollout of genAI CX, an obvious voice expansion.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "target_role": "Customer Experience Director",
+      "buyers": [
+        {
+          "name": "Nick Lane",
+          "title": "MD, Sales & Service Operations, BT Consumer",
+          "linkedin": "https://linkedin.com/in/nick-lane-3745092",
+          "one_liner": "Owns BT Consumer's end-to-end service operation (~17,000 care staff across EE/BT/Plusnet) - operational owner of any contact-centre / voice-AI decision. Title aggregator-corroborated; re-confirm before outreach.",
+          "source": "https://www.linkedin.com/in/nick-lane-3745092/",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vanessa Pillay",
+          "title": "Director of Customer Service, BT Group",
+          "linkedin": "https://uk.linkedin.com/in/vanessa-pillay-0a104b30",
+          "one_liner": "Leads BT Group customer-service teams across the UK & India; profiled by the Institute of Customer Service (Nov 2024).",
+          "source": "https://www.instituteofcustomerservice.com/",
+          "confidence": "high"
+        }
+      ],
+      "icp_motion": "both",
+      "icp_note": "Two plays. Direct: ElevenAgents in their own contact centre (Revolut model). Distribution: embed it and offer the voice across their network - the Deutsche Telekom 'Magenta' play, one deal worth thousands of direct sales.",
+      "pain_sources": [
+        {
+          "platform": "Trustpilot",
+          "detail": "1.3★ 'Bad', 20,000+ reviews",
+          "source_url": "https://uk.trustpilot.com/review/btbroadband.com"
+        },
+        {
+          "platform": "Ofcom",
+          "detail": "8 complaints/100k - above average (Q4 2025)",
+          "source_url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-revealed-q4-2025"
+        },
+        {
+          "platform": "News",
+          "detail": "BT/EE voice outage hit thousands (Jul 2025)",
+          "source_url": "https://www.techradar.com/news/live/vodafone-ee-o2-outage-july-2025"
+        }
+      ],
+      "distribution": {
+        "reach": "EE, BT & Plusnet consumer base + BT Business's enterprise customers",
+        "product": "'Aimee' AI assistant (~60k chats/week), built on Sprinklr genAI",
+        "play": "Rebuild Aimee on ElevenAgents and put the voice inside BT's network and Business products - distributed across EE/BT/Plusnet. The Deutsche Telekom 'Magenta' play."
+      },
+      "platform": {
+        "reach": "mega",
+        "product": "strong",
+        "ecosystem": "channel"
+      }
+    },
+    {
+      "company": "EE",
+      "sector": "UK Telecoms",
+      "voice_pain": {
+        "metric": "Average call waiting time (Ofcom Comparing Customer Service 2025)",
+        "value": "Broadband/landline: 2m 53s; Mobile: 2m 3s",
+        "date": "2024 calendar year (Ofcom report published May 2025)",
+        "source_url": "https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/comparing-service-quality/2025/comparing-customer-service-report-2025.pdf"
+      },
+      "quotes": [
+        {
+          "text": "I have been Promised call back to check if it has improved several times , that have not happened. I have sent at least 7 or 8 hours on the phone .",
+          "source_url": "https://uk.trustpilot.com/review/ee.co.uk?sort=recency&stars=1"
+        }
+      ],
+      "intent_signals": [
+        {
+          "type": "ai-cx-announcement",
+          "detail": "BT Group's Sprinklr genAI rollout centres on EE's virtual assistant 'Aimee', now ~60,000 conversations/week (up from ~30,000) with automation success approaching 50%; roadmap includes real-time agent guidance.",
+          "date": "12 December 2024",
+          "source_url": "https://newsroom.bt.com/bt-group-leans-on-ai-to-transform-customer-service-experience/"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "Ofcom Q3 2025: EE tied as most-complained-about for fixed broadband and worst for pay-TV.",
+          "date": "Q3 2025; published 19 Feb 2026",
+          "source_url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-revealed-q3-2025"
+        }
+      ],
+      "buyer": {
+        "role": "MD Sales and Service Operations, BT Consumer (EE, BT, Plusnet)",
+        "name": "Nick Lane",
+        "source_url": null
+      },
+      "intent_score": 80,
+      "score_rationale": "EE is the named focus of BT Group's genAI assistant scaling and is Ofcom's most-complained broadband/pay-TV brand; named service-ops MD. Slightly behind BT/O2 as it shares the BT announcement.",
+      "why_now": "EE's own assistant 'Aimee' is scaling fast yet customers still log '7 or 8 hours on the phone' - the voice channel is the untouched half of that AI push.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "feed_query": "\"EE\" (mobile OR broadband OR BT) (customer service OR complaints OR AI OR outage)",
+      "target_role": "Customer Experience Director",
+      "icp_motion": "both",
+      "icp_note": "Two plays. Direct: ElevenAgents in their own contact centre (Revolut model). Distribution: embed it and offer the voice across their network - the Deutsche Telekom 'Magenta' play, one deal worth thousands of direct sales.",
+      "distribution": {
+        "reach": "EE mobile + broadband base (part of BT Consumer)",
+        "product": "Shares BT Consumer's 'Aimee' assistant",
+        "play": "Same embed motion as BT - ElevenAgents as the voice inside the consumer products, riding BT's distribution."
+      },
+      "platform": {
+        "reach": "mega",
+        "product": "strong",
+        "ecosystem": "channel"
+      }
+    },
+    {
+      "company": "Vodafone",
+      "sector": "UK Telecoms",
+      "voice_pain": {
+        "metric": "Average call waiting time (Ofcom Comparing Customer Service 2025; shortest broadband/landline wait of all providers)",
+        "value": "Broadband/landline: 0m 25s; Mobile: 0m 29s",
+        "date": "2024 calendar year (Ofcom report published May 2025)",
+        "source_url": "https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/comparing-service-quality/2025/comparing-customer-service-report-2025.pdf"
+      },
+      "quotes": [],
+      "intent_signals": [
+        {
+          "type": "ai-cx-announcement",
+          "detail": "Vodafone investing ~£120m (€140m) to deploy 'SuperTOBi', an Azure OpenAI generative-AI assistant replacing its older TOBi chatbot, multi-market rollout. First-time resolution reportedly rose 15%→60% and online NPS +14 to 64; VodafoneThree won an AI award for TOBi at the 2026 Mobile News Awards.",
+          "date": "5 July 2024 (investment); 2026 award",
+          "source_url": "https://www.ispreview.co.uk/index.php/2024/07/vodafone-invests-120m-to-deploy-new-supertobi-ai-chatbot.html"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "Ofcom Q3 2025: Vodafone tied as most-complained-about for fixed broadband (10 per 100,000).",
+          "date": "Q3 2025; published 19 Feb 2026",
+          "source_url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-revealed-q3-2025"
+        }
+      ],
+      "buyer": {
+        "role": "Consumer Operations Director, VodafoneThree (leads customer experience/care)",
+        "name": "Jon Shaw",
+        "source_url": "https://www.vodafone.co.uk/newscentre/viewpoint/vodafonethree-number-1-telco-customer-experience/"
+      },
+      "intent_score": 79,
+      "score_rationale": "Heavy, dated, named AI-CX investment (£120m SuperTOBi) and a named care director; scored just below peers because its call-wait metric is actually best-in-class (pain is on complaints/NPS, not hold time).",
+      "why_now": "Vodafone has already put £120m into generative-AI CX and a fresh post-merger care mandate under Jon Shaw - the appetite and budget for voice automation are proven.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "target_role": "Customer Experience Director",
+      "buyers": [
+        {
+          "name": "Jon Shaw",
+          "title": "Consumer Operations Director, VodafoneThree",
+          "linkedin": "https://uk.linkedin.com/in/jon-shaw-302b744",
+          "one_liner": "The operational buyer - owns ~12,500 customer-care staff; frames CX as 'listen, simplify, change' and positions AI as helping agents do their jobs better.",
+          "source": "https://www.vodafonethree.com/about/leadership",
+          "confidence": "high"
+        },
+        {
+          "name": "Bev Bartlett",
+          "title": "Group Head of Digital Care, Vodafone",
+          "linkedin": "https://uk.linkedin.com/in/bev-bartlett-a8947226",
+          "one_liner": "Named owner of TOBi / SuperTOBi; quoted on the Azure OpenAI rollout for 'more natural conversation' - owns the conversational-AI roadmap (Group remit, so confirm UK budget).",
+          "source": "https://www.ispreview.co.uk/index.php/2024/07/vodafone-invests-120m-to-deploy-new-supertobi-ai-chatbot.html",
+          "confidence": "medium"
+        }
+      ],
+      "icp_motion": "both",
+      "icp_note": "Two plays. Direct: ElevenAgents in their own contact centre (Revolut model). Distribution: embed it and offer the voice across their network - the Deutsche Telekom 'Magenta' play, one deal worth thousands of direct sales.",
+      "pain_sources": [
+        {
+          "platform": "Ofcom",
+          "detail": "Joint most-complained broadband, 11/100k (Q4 2025)",
+          "source_url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-revealed-q4-2025"
+        },
+        {
+          "platform": "News",
+          "detail": "Major outage - 135,000+ reports (Oct 2025)",
+          "source_url": "https://www.ibtimes.co.uk/vodafone-outage-leaves-thousands-without-internet-mobile-service-across-uk-1747730"
+        }
+      ],
+      "distribution": {
+        "reach": "VodafoneThree UK base + Vodafone's global footprint",
+        "product": "'TOBi / SuperTOBi' (on Microsoft Azure OpenAI)",
+        "play": "Vodafone already ships SuperTOBi - rebuild it on ElevenAgents and offer the voice across the network and to business customers. The Magenta play."
+      },
+      "platform": {
+        "reach": "mega",
+        "product": "strong",
+        "ecosystem": "channel"
+      }
+    },
+    {
+      "company": "Octopus Energy",
+      "sector": "UK Energy",
+      "voice_pain": {
+        "metric": "Citizens Advice average call wait time (CA contact-waiting-time 3.6/5; overall 3.67/5)",
+        "value": "77 seconds (1m 17s)",
+        "date": "Citizens Advice, Jan–Mar 2026",
+        "source_url": "https://www.citizensadvice.org.uk/consumer/energy/energy-supply/get-a-better-energy-deal/compare-domestic-energy-suppliers-customer-service/octopus-energy/details"
+      },
+      "quotes": [],
+      "intent_signals": [
+        {
+          "type": "other",
+          "detail": "Opened a dedicated Octopus-branded contact-centre floor (Zinc, 21 Jan 2026) - investing in human + AI customer operations alongside its Kraken platform.",
+          "date": "21 January 2026",
+          "source_url": "https://contact-centres.com/zinc-octopus-energy-officially-open-contact-centre-floor/"
+        }
+      ],
+      "buyer": {
+        "role": "Chief Operating Officer",
+        "name": null,
+        "source_url": null
+      },
+      "intent_score": 78,
+      "score_rationale": "Dated contact-centre expansion plus an existing genAI tool (Magic Ink) automating 40% of digital comms signals clear appetite to extend automation to voice; named COO. Voice-pain metric itself is moderate.",
+      "why_now": "Octopus is opening new Octopus-branded contact-centre floors (Jan 2026) and runs its own Kraken AI platform - voice is the logical next channel, and Kraken licensing makes it a distribution play.",
+      "scale": "large",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "target_role": "Customer Operations Director",
+      "buyers": [
+        {
+          "name": "Jon Paull",
+          "title": "COO, Octopus Energy Group & Global Director of Operations",
+          "linkedin": "https://uk.linkedin.com/in/jon-paull-5a88171b",
+          "one_liner": "Group COO over operations & CX across Octopus and the Kraken platform; Institute of Customer Service speaker - the senior operational / economic buyer.",
+          "source": "https://octopus.energy/press/meet-the-team/",
+          "confidence": "high"
+        }
+      ],
+      "icp_motion": "both",
+      "icp_note": "Two plays. Direct: voice AI in Octopus's own support. Distribution: embed it in the Kraken platform Octopus licenses to other energy suppliers - ride every Kraken client, not just Octopus.",
+      "distribution": {
+        "reach": "Kraken platform - licensed to OTHER suppliers (E.ON, EDF Next, Origin…), not just Octopus",
+        "product": "'Kraken' customer-ops + AI platform",
+        "play": "Embed ElevenAgents in Kraken - ride it across every Kraken licensee, not just Octopus. The purest distribution play in the set."
+      },
+      "platform": {
+        "reach": "large",
+        "product": "strong",
+        "ecosystem": "licence"
+      }
+    },
+    {
+      "company": "Three",
+      "sector": "UK Telecoms",
+      "voice_pain": {
+        "metric": "Average call waiting time - mobile (Ofcom Comparing Customer Service 2025; broadband/landline N/A)",
+        "value": "Mobile: 0m 46s; Broadband/landline: N/A",
+        "date": "2024 calendar year (Ofcom report published May 2025)",
+        "source_url": "https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/comparing-service-quality/2025/comparing-customer-service-report-2025.pdf"
+      },
+      "quotes": [],
+      "intent_signals": [
+        {
+          "type": "ai-cx-announcement",
+          "detail": "As part of post-merger VodafoneThree, AI-CX is an active investment area (SuperTOBi / TOBi generative assistant; 2026 Mobile News Award for TOBi improvements), spanning Vodafone and Three brands.",
+          "date": "Investment 8 July 2024; 2026 award; merger May 2025",
+          "source_url": "https://www.ispreview.co.uk/index.php/2024/07/vodafone-invests-120m-to-deploy-new-supertobi-ai-chatbot.html"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "Ofcom Q3 2025: Three among the most-complained-about pay-monthly mobile providers.",
+          "date": "Q3 2025; published 19 Feb 2026",
+          "source_url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-revealed-q3-2025"
+        }
+      ],
+      "buyer": {
+        "role": "Consumer Operations Director, VodafoneThree",
+        "name": "Jon Shaw",
+        "source_url": "https://www.vodafonethree.com/news/jon-shaw-customer-experience"
+      },
+      "intent_score": 72,
+      "score_rationale": "Shares the VodafoneThree AI-CX investment and a named care director and carries Ofcom complaint pressure, but its own call metric is low/fast and signals are inherited from the merged group.",
+      "why_now": "Post-merger, Three sits inside Vodafone's £120m AI-CX programme under Jon Shaw while still ranking among the most-complained mobile brands at Ofcom.",
+      "scale": "large",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "feed_query": "\"Three UK\" (mobile OR network) (customer service OR complaints OR outage)",
+      "target_role": "Customer Experience Director",
+      "icp_motion": "both",
+      "icp_note": "Two plays. Direct: ElevenAgents in their own contact centre (Revolut model). Distribution: embed it and offer the voice across their network - the Deutsche Telekom 'Magenta' play, one deal worth thousands of direct sales.",
+      "distribution": {
+        "reach": "VodafoneThree merged UK base",
+        "product": "Inherits Vodafone's TOBi/SuperTOBi post-merger",
+        "play": "Same embed motion as Vodafone - the voice inside, distributed across the merged network."
+      },
+      "platform": {
+        "reach": "large",
+        "product": "emerging",
+        "ecosystem": "channel"
+      }
+    },
+    {
+      "company": "Virgin Media",
+      "sector": "UK Telecoms",
+      "voice_pain": {
+        "metric": "Average call waiting time - broadband/landline (Ofcom Comparing Customer Service 2025)",
+        "value": "2m 17s",
+        "date": "2024 calendar year (Ofcom report published May 2025)",
+        "source_url": "https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/comparing-service-quality/2025/comparing-customer-service-report-2025.pdf"
+      },
+      "quotes": [
+        {
+          "text": "Currently on hold for over 40 minutes to obtain an update on why I have no broadband. Very poor customer service. I wish I had stayed with SKY!",
+          "source_url": "https://uk.trustpilot.com/review/www.virginmedia.com?sort=recency&stars=1"
+        }
+      ],
+      "intent_signals": [
+        {
+          "type": "ai-cx-announcement",
+          "detail": "Launched 'Lumi AI' across customer service (Jul 2025), routing on AWS; reports complaints cut by over 50% and around 70% of contacts resolved within 24 hours. Alan Stott, Director of Customer Contact, is driving it.",
+          "date": "28 July 2025",
+          "source_url": "https://news.virginmediao2.co.uk/virgin-media-o2-launches-new-ai-tools-to-supercharge-customer-services-and-better-help-most-vulnerable-customers/"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "Ofcom Q3 2025 shows continued fixed-broadband service pressure across the sector.",
+          "date": "Q3 2025; published 19 Feb 2026",
+          "source_url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-revealed-q3-2025"
+        }
+      ],
+      "buyer": {
+        "role": "Director, Customer Contact - Care, Sales & Retentions (VMO2 contact-centre owner)",
+        "name": "Alan Stott",
+        "source_url": null
+      },
+      "intent_score": 70,
+      "score_rationale": "Covered by the same VMO2 Lumi AI programme and named buyer as O2 with a real broadband hold-pain quote; scored below O2 because the signal is shared and the brand-specific wait is shorter.",
+      "why_now": "Virgin Media customers still sit on hold 40+ minutes over broadband outages even as parent VMO2 rolls out Lumi AI and natural-language call routing.",
+      "scale": "large",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "target_role": "Customer Experience Director",
+      "icp_motion": "both",
+      "icp_note": "Two plays. Direct: ElevenAgents in their own contact centre (Revolut model). Distribution: embed it and offer the voice across their network - the Deutsche Telekom 'Magenta' play, one deal worth thousands of direct sales.",
+      "distribution": {
+        "reach": "VMO2 broadband + TV base",
+        "product": "'Lumi AI' (Virgin Media O2)",
+        "play": "Same as O2 - embed ElevenAgents in Lumi and ride VMO2's distribution."
+      },
+      "platform": {
+        "reach": "large",
+        "product": "emerging",
+        "ecosystem": "channel"
+      }
+    },
+    {
+      "company": "Santander UK",
+      "sector": "UK Banking",
+      "voice_pain": {
+        "metric": "Average wait to reach the fraud/scam reporting line (Which? mystery-shop, 144 calls)",
+        "value": "19m 13s vs 10m 51s all-bank average",
+        "date": "Test March 2022; published Which? May 2022",
+        "source_url": "https://www.which.co.uk/news/article/fraud-victims-left-hanging-on-the-telephone-which-finds-au81K0S3iFvc"
+      },
+      "quotes": [
+        {
+          "text": "Have been a customer for many years , and the service has become shocking, I tried to speak on the phone today but gave up after 35 minutes, I will be changing my account to Nationwide.",
+          "source_url": "https://uk.trustpilot.com/review/www.santander.co.uk"
+        },
+        {
+          "text": "They asked me to call on a monthly basis, which I did and each occassion, the calls were between 30 minutes and 1 hour duration, the vast majority of that time being on hold listening to their dreary music.",
+          "source_url": "https://uk.trustpilot.com/review/www.santander.co.uk"
+        },
+        {
+          "text": "the chat has been on hold for over 30min by now, they already shut down telephone service.",
+          "source_url": "https://uk.trustpilot.com/review/www.santander.co.uk"
+        }
+      ],
+      "intent_signals": [
+        {
+          "type": "regulatory-pressure",
+          "detail": "FCA Consumer Duty plus the 31 May 2026 motor-finance complaints surge and 2027 Unified Complaints Return push UK banks toward scalable, compliant voice automation.",
+          "date": "2025/2026",
+          "source_url": "https://www.fca.org.uk/news/statements/pause-motor-finance-complaints-handling-lift-31-may-2026"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "FOS data shows banking/payment complaints at multi-year highs (305,726 new complaints in 2024/25, +54% YoY; fraud/scams the leading current-account issue), signalling contact-centre strain.",
+          "date": "FOS 2024/25",
+          "source_url": "https://www.financial-ombudsman.org.uk/news/financial-ombudsman-service-sees-complaints-increase-50"
+        }
+      ],
+      "buyer": {
+        "role": "Director of Customer Operations / Customer Experience Director (not named on exec page)",
+        "name": null,
+        "source_url": "https://www.santander.co.uk/about-santander/executive-directors"
+      },
+      "intent_score": 64,
+      "score_rationale": "No company-specific AI/hiring signal, but sector regulatory pressure plus one of the worst fraud-line waits (19m+) and corroborating quotes give a strong pain wedge; buyer unnamed lowers it.",
+      "why_now": "A new Chief Customer & Operations remit meets sector-wide Consumer-Duty pressure (timing); historic testing and current reviews both point to long fraud-line and on-hold waits (the pattern).",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "target_role": "Chief Customer Officer",
+      "buyers": [
+        {
+          "name": "Andy Booth",
+          "title": "Head of Retail & Business Banking",
+          "linkedin": "https://uk.linkedin.com/in/andrew-booth-4694338",
+          "one_liner": "Appointed Head of Retail & Business Banking (Mar 2026); previously ran Santander UK's Digital & Assisted Channels - explicitly including contact centres - the most contact-centre-relevant buyer of the UK banks; ex-Barclays.",
+          "source": "https://www.santander.co.uk/about-santander/media-centre/press-releases/andy-booth-appointed-head-of-retail-business-banking-at",
+          "confidence": "high"
+        },
+        {
+          "name": "Gail Russell",
+          "title": "Head of Everyday Banking",
+          "linkedin": "https://www.linkedin.com/in/gail-russell-123a3518/",
+          "one_liner": "Joined as Head of Everyday Banking (Nov 2025) after nine years at HSBC, most recently Global Head of Customer Experience and Channels - directly relevant voice/CX background.",
+          "source": "https://www.fintechfutures.com/job-cuts-new-hires/santander-uk-appoints-hsbcs-gail-russell-as-head-of-everyday-banking",
+          "confidence": "medium"
+        }
+      ],
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions.",
+      "pain_sources": [
+        {
+          "platform": "Trustpilot",
+          "detail": "1-star band, ~9,790 reviews",
+          "source_url": "https://uk.trustpilot.com/review/www.santander.co.uk"
+        },
+        {
+          "platform": "News",
+          "detail": "40 more branches closing in 2026 (Which?)",
+          "source_url": "https://www.which.co.uk/news/article/santander-bank-branch-closures-aTW221X2HrXO"
+        },
+        {
+          "platform": "News",
+          "detail": "App outage, 600+ reports (Mar 2025)",
+          "source_url": "https://www.gbnews.com/money/santander-down-banking-app-website-customers-locked-out-accounts"
+        }
+      ]
+    },
+    {
+      "company": "Barclays",
+      "sector": "UK Banking",
+      "voice_pain": {
+        "metric": "Average wait to reach the fraud/scam reporting line (Which? mystery-shop, 144 calls)",
+        "value": "10m 29s vs 10m 51s all-bank average",
+        "date": "Test March 2022; published Which? May 2022",
+        "source_url": "https://www.which.co.uk/news/article/fraud-victims-left-hanging-on-the-telephone-which-finds-au81K0S3iFvc"
+      },
+      "quotes": [
+        {
+          "text": "The lady on the phone who sorted everything out in the morning was excellent. The Barclays automated system the night before was horrendous.",
+          "source_url": "https://uk.trustpilot.com/review/www.barclays.co.uk"
+        },
+        {
+          "text": "Had to call customer service many times to find out that my credit card application was accepted... Still haven't received a single email, text or letter from Barclays, throughout the whole process and had to call them each time to find out what was going on. Shocking",
+          "source_url": "https://uk.trustpilot.com/review/www.barclays.co.uk"
+        }
+      ],
+      "intent_signals": [
+        {
+          "type": "regulatory-pressure",
+          "detail": "FCA Consumer Duty friction expectations plus 31 May 2026 motor-finance surge and 2027 Unified Complaints Return drive demand for scalable compliant voice automation across UK banks.",
+          "date": "2025/2026",
+          "source_url": "https://www.fca.org.uk/news/statements/pause-motor-finance-complaints-handling-lift-31-may-2026"
+        }
+      ],
+      "buyer": {
+        "role": "Customer Care Director, UK Customer Care (first name 'Sam' only published)",
+        "name": null,
+        "source_url": "https://search.jobs.barclays/Meet-Customer-Care-Director-Sam"
+      },
+      "intent_score": 58,
+      "score_rationale": "Regulatory-only intent and an average-band fraud wait with a directly relevant quote about a 'horrendous' automated system; buyer only partially identified.",
+      "why_now": "Consumer-Duty scrutiny of after-hours phone journeys is the timing; Barclays' own customers single out the night-time automated system as 'horrendous' - the pattern voice AI addresses.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "target_role": "Chief Customer Officer",
+      "buyers": [
+        {
+          "name": "Vim Maru",
+          "title": "CEO, Barclays UK",
+          "linkedin": "https://uk.linkedin.com/in/vim-maru",
+          "one_liner": "CEO Barclays UK since Feb 2024; owns retail banking/payments and the ~20m personal-customer franchise. No CX-ops director is publicly named - anchor here and prospect down via the LinkedIn search below.",
+          "source": "https://home.barclays/who-we-are/structure-and-leadership/leadership/vim-maru/",
+          "confidence": "medium"
+        }
+      ],
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions."
+    },
+    {
+      "company": "HSBC UK",
+      "sector": "UK Banking",
+      "voice_pain": {
+        "metric": "Average wait to reach the fraud/scam reporting line (Which? mystery-shop, 144 calls)",
+        "value": "4m 54s (HSBC) / 2m 26s (HSBC Premier) vs 10m 51s all-bank average",
+        "date": "Test March 2022; published Which? May 2022",
+        "source_url": "https://www.which.co.uk/news/article/fraud-victims-left-hanging-on-the-telephone-which-finds-au81K0S3iFvc"
+      },
+      "quotes": [
+        {
+          "text": "HSBC Premier Travel insurance is ridiculous! They said I’ve got to phone them and let them know everytime me and my children go to the doctors... Not worth the hour on the phone with an idiot who didn’t seem to understand why a person would see a physio for a sports injury.",
+          "source_url": "https://uk.trustpilot.com/review/www.hsbc.co.uk"
+        },
+        {
+          "text": "Appalling service, no reply from branch in given time frames, call centre staff did not complete what they said they'd do, Call centre staff gave incorrect advice. Took in excess of 6 weeks to transfer an ISA",
+          "source_url": "https://uk.trustpilot.com/review/www.hsbc.co.uk"
+        }
+      ],
+      "intent_signals": [
+        {
+          "type": "regulatory-pressure",
+          "detail": "FCA Consumer Duty plus 2026 motor-finance surge and Unified Complaints Return push UK banks toward scalable compliant voice automation.",
+          "date": "2025/2026",
+          "source_url": "https://www.fca.org.uk/news/statements/pause-motor-finance-complaints-handling-lift-31-may-2026"
+        }
+      ],
+      "buyer": {
+        "role": "Group Customer and Culture Director (appointed 2025)",
+        "name": "Ian Stuart",
+        "source_url": "https://www.hsbc.com/news-and-views/news/media-releases/2025/hsbc-announces-appointment-of-group-customer-and-culture-director"
+      },
+      "intent_score": 57,
+      "score_rationale": "Regulatory-only intent and a relatively fast fraud wait, but real call-centre-quality quotes and a freshly named (2025) group customer director keep it credible.",
+      "why_now": "A freshly named (2025) Group Customer & Culture Director plus Consumer Duty is the timing; current reviews describe call-centre agents giving incorrect advice and hour-long calls - the pattern to fix.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "target_role": "Chief Customer Officer",
+      "buyers": [
+        {
+          "name": "Becky Moffat",
+          "title": "Chief Customer Officer, Wealth & Personal Banking, HSBC UK",
+          "linkedin": "https://uk.linkedin.com/in/beckymoffat",
+          "one_liner": "Promoted Jun 2025 to CCO WPB with explicit remit over CX, experience design, analytics/data transformation and CRM - the closest thing HSBC UK has to a single CX owner.",
+          "source": "https://www.marketingweek.com/hsbc-becky-moffat-chief-customer-officer/",
+          "confidence": "high"
+        },
+        {
+          "name": "José Carvalho",
+          "title": "Head of Retail Banking & Wealth, HSBC UK",
+          "linkedin": "https://uk.linkedin.com/in/josecarvalho",
+          "one_liner": "Owns the WPB/retail P&L (incl. first direct, M&S Bank) under which CX investment is sponsored - the economic buyer above the CX operator.",
+          "source": "https://www.about.hsbc.co.uk/management-team",
+          "confidence": "medium"
+        }
+      ],
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions."
+    },
+    {
+      "company": "TalkTalk",
+      "sector": "UK Telecoms",
+      "voice_pain": {
+        "metric": "Average call waiting time - broadband/landline (Ofcom Comparing Customer Service 2025)",
+        "value": "1m 8s",
+        "date": "2024 calendar year (Ofcom report published May 2025)",
+        "source_url": "https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/comparing-service-quality/2025/comparing-customer-service-report-2025.pdf"
+      },
+      "quotes": [],
+      "intent_signals": [
+        {
+          "type": "regulatory-pressure",
+          "detail": "Ofcom Q3 2025 (pub. Feb 2026): TalkTalk tied as most-complained-about for fixed broadband and worst for landline.",
+          "date": "Q3 2025; published 19 Feb 2026",
+          "source_url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-revealed-q3-2025"
+        }
+      ],
+      "buyer": {
+        "role": "Chief Operations Officer (took CX/contact-centre transformation remit 2023)",
+        "name": "Neil Smith",
+        "source_url": "https://www.computerweekly.com/news/366631944/TalkTalk-undoes-customer-experience-stack-complexity-to-boost-contact-centre-agents"
+      },
+      "intent_score": 54,
+      "score_rationale": "Regulatory pressure (worst landline, most-complained broadband) plus a named COO already running a contact-centre transformation; lacks a quote and the raw wait is short.",
+      "why_now": "TalkTalk is Ofcom's worst landline and most-complained broadband brand, and its COO is mid-transformation of the contact centre - a live CX modernisation buyer.",
+      "scale": "large",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "target_role": "Customer Experience Director",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions."
+    },
+    {
+      "company": "Sky",
+      "sector": "UK Telecoms",
+      "voice_pain": {
+        "metric": "Average call waiting time (Ofcom Comparing Customer Service 2025)",
+        "value": "Broadband/landline: 0m 46s; Mobile (Sky Mobile): 1m 12s",
+        "date": "2024 calendar year (Ofcom report published May 2025)",
+        "source_url": "https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/comparing-service-quality/2025/comparing-customer-service-report-2025.pdf"
+      },
+      "quotes": [],
+      "intent_signals": [
+        {
+          "type": "regulatory-pressure",
+          "detail": "Ofcom Q3 2025: Sky Mobile among the most-complained-about pay-monthly mobile providers, driven specifically by COMPLAINT-HANDLING.",
+          "date": "Q3 2025; published 19 Feb 2026",
+          "source_url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-revealed-q3-2025"
+        }
+      ],
+      "buyer": {
+        "role": "Chief Operating Officer, Sky UK (owns customer service operations)",
+        "name": "Devesh Raj",
+        "source_url": "https://www.skygroup.sky/our-leadership"
+      },
+      "intent_score": 47,
+      "score_rationale": "Only regulatory intent and fast call metrics (pain is complaint-handling, not hold time), but Sky Mobile's complaint-handling flag and a named COO keep it on the list at a modest score.",
+      "why_now": "Sky Mobile's Ofcom complaints are driven specifically by complaint-handling - a workflow voice AI can triage before it escalates.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "feed_query": "\"Sky UK\" (broadband OR TV) (customer service OR complaints OR outage)",
+      "target_role": "Customer Experience Director",
+      "icp_motion": "both",
+      "icp_note": "Two plays. Direct: ElevenAgents in their own contact centre (Revolut model). Distribution: embed it and offer the voice across their network - the Deutsche Telekom 'Magenta' play, one deal worth thousands of direct sales.",
+      "distribution": {
+        "reach": "Sky broadband/TV + Sky Mobile, part of Comcast / NBCUniversal",
+        "product": "Sky voice control (Sky Q / Sky Glass)",
+        "play": "Embed ElevenAgents in Sky's voice products and distribute across the Sky / Comcast base."
+      },
+      "platform": {
+        "reach": "mega",
+        "product": "strong",
+        "ecosystem": "channel"
+      }
+    },
+    {
+      "company": "Utility Warehouse",
+      "sector": "UK Energy",
+      "voice_pain": {
+        "metric": "Citizens Advice average call wait time (worst of all 16 rated domestic suppliers this quarter; 'contact ease' 1.8/5)",
+        "value": "436 seconds (7m 16s)",
+        "date": "Citizens Advice, Jan–Mar 2026",
+        "source_url": "https://www.citizensadvice.org.uk/consumer/energy/energy-supply/get-a-better-energy-deal/compare-domestic-energy-suppliers-customer-service/utility-warehouse/details"
+      },
+      "quotes": [],
+      "intent_signals": [],
+      "buyer": {
+        "role": "Customer Services Director (hired to drive customer-service excellence)",
+        "name": "Tracey Costley",
+        "source_url": "https://uw.co.uk/about-us/newsroom/press-releases/utility-warehouse-hires-new-customer-service-director-to-drive-customer-excellence-and-power-growth"
+      },
+      "intent_score": 36,
+      "score_rationale": "No intent signal, but the worst call wait of any rated UK energy supplier (436s), a corroborating quote, and a newly hired Customer Services Director chartered to fix exactly this.",
+      "why_now": "Utility Warehouse has the worst call wait of any UK energy supplier and just hired a Customer Services Director to fix it - a buyer with a mandate and no solution yet.",
+      "scale": "mid",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "feed_query": "\"Utility Warehouse\" (customer service OR complaints OR billing)",
+      "target_role": "Customer Operations Director",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions."
+    },
+    {
+      "company": "British Gas",
+      "sector": "UK Energy",
+      "voice_pain": {
+        "metric": "Citizens Advice average call wait time (fast on raw wait, 4.2/5, but worst overall rating of the legacy Big-Six at 2.61/5)",
+        "value": "51 seconds (0m 51s)",
+        "date": "Citizens Advice, Jan–Mar 2026",
+        "source_url": "https://www.citizensadvice.org.uk/consumer/energy/energy-supply/get-a-better-energy-deal/compare-domestic-energy-suppliers-customer-service/british-gas/details"
+      },
+      "quotes": [
+        {
+          "text": "I ve just gone through a smart meter.exchange, on 30 April, as off 26 June my smart is still unable tp send the correct readings to british gas, 2 visits one lasting 3 hrs, hours on the phone explaining many times to different people, still not working .Avoid british gas ,i will move as soon as my contract ends",
+          "source_url": "https://uk.trustpilot.com/review/www.britishgas.co.uk"
+        }
+      ],
+      "intent_signals": [],
+      "buyer": {
+        "role": "Customer Service Director",
+        "name": "Martin O'Neill",
+        "source_url": null
+      },
+      "intent_score": 32,
+      "score_rationale": "No intent signal and a fast raw wait, but the worst overall CA rating of the legacy Big-Six and a real repeat-contact quote, with a named Customer Service Director.",
+      "why_now": "British Gas answers fast but customers spend 'hours on the phone explaining many times to different people' - the resolution problem, not the queue, that voice AI context-carrying solves.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "target_role": "Customer Operations Director",
+      "buyers": [
+        {
+          "name": "Linsey Jones",
+          "title": "Customer Fulfilment Director, British Gas Services & Solutions",
+          "linkedin": null,
+          "one_liner": "Owns all customer service & sales conversations - help & support, retention and complaints across voice and digital; 20+ years in CX/call centres. The operational contact-centre/voice buyer.",
+          "source": "https://www.instituteofcustomerservice.com/e/h2h-linsey-jones-centrica/",
+          "confidence": "high"
+        },
+        {
+          "name": "Gary Booker",
+          "title": "MD, British Gas / Centrica Home (ex-CCO)",
+          "linkedin": "https://uk.linkedin.com/in/gary-booker-a65a9719",
+          "one_liner": "Joined as CCO Jun 2024, promoted to MD running all consumer retail brands and the UK/Ireland consumer P&L - the senior economic sponsor.",
+          "source": "https://www.marketingweek.com/centrica-promoted-british-gas-md/",
+          "confidence": "high"
+        }
+      ],
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions."
+    },
+    {
+      "company": "KCOM",
+      "sector": "UK Telecoms",
+      "voice_pain": {
+        "metric": "Average call waiting time - broadband/landline (Ofcom Comparing Customer Service 2025; longest of all broadband/landline providers)",
+        "value": "7m 9s",
+        "date": "2024 calendar year (Ofcom report published May 2025)",
+        "source_url": "https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/comparing-service-quality/2025/comparing-customer-service-report-2025.pdf"
+      },
+      "quotes": [
+        {
+          "text": "I spent an hour on the phone with them a few weeks ago, was promised a credit on my bill that would reduce the DirectDebit to put things how they should be.",
+          "source_url": "https://uk.trustpilot.com/review/kcom.com/home?sort=recency&stars=1"
+        },
+        {
+          "text": "try making a complaint or getting through to someone once your a customer, verbal only ( hand no records ) or in writing by snail mail. and of course you'll have to go through the hours of turning your router on and off and unplugging devices and even then they still wont admit it's their network.",
+          "source_url": "https://uk.trustpilot.com/review/kcom.com/home?sort=recency&stars=1"
+        }
+      ],
+      "intent_signals": [],
+      "buyer": {
+        "role": "Customer Experience Director / Head of Customer Service (no named leader found)",
+        "name": null,
+        "source_url": "https://www.kcom.com/about-us/leadership-and-governance/"
+      },
+      "intent_score": 30,
+      "score_rationale": "Strongest single voice-pain metric in telecoms (longest broadband wait, 7m 9s) with two quotes, but no intent signal and no named buyer cap the score.",
+      "why_now": "KCOM has the longest broadband hold time of any UK provider (7m 9s) and customers describe records kept 'verbal only' - a contact centre ripe for AI but with no public buyer yet.",
+      "scale": "mid",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "feed_query": "\"KCOM\" (broadband OR Hull) (customer service OR complaints OR outage)",
+      "target_role": "Customer Experience Director",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions."
+    },
+    {
+      "company": "EDF Energy",
+      "sector": "UK Energy",
+      "voice_pain": {
+        "metric": "Citizens Advice average call wait time (worst of the Big-Six legacy suppliers on raw call wait)",
+        "value": "166 seconds (2m 46s)",
+        "date": "Citizens Advice, Jan–Mar 2026",
+        "source_url": "https://www.citizensadvice.org.uk/consumer/energy/energy-supply/get-a-better-energy-deal/compare-domestic-energy-suppliers-customer-service/edf-energy/details"
+      },
+      "quotes": [
+        {
+          "text": "She then told me she was going to clarify something and kept me on hold for nearly 20 minutes!! I am appalled by this type of customer care as I have been with EDF for a number of years, and I have never had this type of service",
+          "source_url": "https://uk.trustpilot.com/review/www.edfenergy.com"
+        }
+      ],
+      "intent_signals": [],
+      "buyer": {
+        "role": "Managing Director, Customers (heads UK retail customer business)",
+        "name": "Philippe Commaret",
+        "source_url": "https://www.edfenergy.com/media-centre/news-releases/edf-announces-new-managing-director-customers-business"
+      },
+      "intent_score": 30,
+      "score_rationale": "No intent signal, but the worst raw call wait of the legacy Big-Six energy suppliers, a real on-hold quote and a named MD of Customers.",
+      "why_now": "EDF has the worst call wait of the Big-Six legacy suppliers and a named MD of Customers - pain plus a clear owner, just no public AI move yet.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "feed_query": "\"EDF Energy\" (customer service OR complaints OR billing)",
+      "target_role": "Customer Operations Director",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions."
+    },
+    {
+      "company": "OVO Energy",
+      "sector": "UK Energy",
+      "voice_pain": {
+        "metric": "Citizens Advice average call wait time (had spiked to 254s in Q4 2025 before falling back)",
+        "value": "93 seconds (1m 33s)",
+        "date": "Citizens Advice, Jan–Mar 2026",
+        "source_url": "https://www.citizensadvice.org.uk/consumer/energy/energy-supply/get-a-better-energy-deal/compare-domestic-energy-suppliers-customer-service/ovo-energy/details"
+      },
+      "quotes": [
+        {
+          "text": "Customer service made me cry with frustration as I waited hours on the phone, was passed around and encountered such inefficient service. I seriously dislike this company that retains hundreds of £s credit in case of default. Happiness would be to see them go out of business. They did not even answer my complaint Do not use",
+          "source_url": "https://uk.trustpilot.com/review/www.ovoenergy.com"
+        }
+      ],
+      "intent_signals": [],
+      "buyer": {
+        "role": "Chief Customer Officer (newly created role, appointed July 2025)",
+        "name": "Dan Burdett",
+        "source_url": "https://www.solarpowerportal.co.uk/solar-projects/ovo-creates-new-chief-customer-officer-role-to-deliver-on-plan-zero-goals"
+      },
+      "intent_score": 30,
+      "score_rationale": "No formal intent signal, but a brand-new (July 2025) Chief Customer Officer role is itself a soft buying signal, paired with a visceral on-hold quote and a recent wait spike.",
+      "why_now": "No fresh public trigger; included for scale and fit. Citizens Advice rates its phone service mid-pack (Jan–Mar 2026).",
+      "scale": "large",
+      "fit": {
+        "level": "high",
+        "flags": "high-volume regulated voice, identity-heavy"
+      },
+      "feed_query": "\"OVO Energy\" (customer service OR complaints OR billing OR outage)",
+      "target_role": "Customer Operations Director",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions."
+    },
+    {
+      "company": "Aviva",
+      "sector": "UK Insurance",
+      "voice_pain": {
+        "metric": null,
+        "value": null,
+        "date": null,
+        "source_url": null
+      },
+      "quotes": [
+        {
+          "text": "I have wasted over two hours with your appalling company today and am putting damning comments on Trustpilot. I wished to take up the car quote offered on Moneysupermarket. I filled in your form and at the final stage it said I had to call you. When I tried, it said 'busy' call back later. I did this numerous times. I have told my existing company I did not want to renew, only to find I have no insurance because of your total lack of customer care.",
+          "source_url": "https://uk.trustpilot.com/review/www.aviva.co.uk"
+        }
+      ],
+      "intent_signals": [],
+      "buyer": {
+        "role": "Chief Customer and Marketing Officer (Group Executive Committee)",
+        "name": "Cheryl Toner",
+        "source_url": "https://www.aviva.com/about-us/leader-profiles/cheryl-toner/"
+      },
+      "intent_score": 25,
+      "score_rationale": "No hard metric and no intent signal, but a strong revenue-loss quote (a lost sale at the point of needing to call) and a named C-suite customer owner; thin overall.",
+      "why_now": "Aviva is losing new-business sales at the moment customers are forced to phone a 'busy' line - a direct revenue leak voice AI catches.",
+      "scale": "mega",
+      "fit": {
+        "level": "med",
+        "flags": "claims voice, regulated"
+      },
+      "target_role": "Chief Customer Officer",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions."
+    },
+    {
+      "company": "LV= (Liverpool Victoria)",
+      "sector": "UK Insurance",
+      "voice_pain": {
+        "metric": null,
+        "value": null,
+        "date": null,
+        "source_url": null
+      },
+      "quotes": [
+        {
+          "text": "it took several phones calls , waitied a very long time, tried the chat , eventually had a reply on the phone to be told there were notthing they could do , it was a online web site issue.",
+          "source_url": "https://uk.trustpilot.com/review/www.lv.com"
+        }
+      ],
+      "intent_signals": [],
+      "buyer": {
+        "role": "Chief Customer Officer (joined Executive team start of 2026)",
+        "name": "Chloe Stuttard",
+        "source_url": "https://www.lv.com/about-us/company-information/corporate-governance/our-executive-team"
+      },
+      "intent_score": 22,
+      "score_rationale": "No metric and no intent signal, but a relevant multi-call quote and a brand-new (2026) Chief Customer Officer - a fresh buyer worth a soft touch; data is thin.",
+      "why_now": "LV= brought in a new Chief Customer Officer at the start of 2026 just as customers report 'several phone calls' and long waits to resolve simple issues.",
+      "scale": "mid",
+      "fit": {
+        "level": "med",
+        "flags": "claims voice, regulated"
+      },
+      "feed_query": "\"LV=\" OR \"Liverpool Victoria\" (insurance OR claims) (customer service OR complaints)",
+      "target_role": "Chief Customer Officer",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions."
+    },
+    {
+      "company": "Admiral",
+      "sector": "UK Insurance",
+      "voice_pain": {
+        "metric": "FOS new-complaint volume / ranking - Admiral named most-complained-about general insurer (H1 2023)",
+        "value": "Most-complained-about UK general insurer (H1 2023)",
+        "date": "Published 30 Oct 2023 (Post)",
+        "source_url": "https://www.postonline.co.uk/personal/7954414/admiral-is-the-most-complained-about-general-insurer-in-h1-2023"
+      },
+      "quotes": [],
+      "intent_signals": [
+        {
+          "type": "regulatory-pressure",
+          "detail": "Admiral set aside £50m to compensate ~3% of motor total-loss customers under-settled 2019-2025 following the FCA's sector-wide write-off investigation; customers contacted H2 2025 - drives a wave of inbound claims/redress calls.",
+          "date": "August 2025",
+          "source_url": "https://www.brownejacobson.com/insights/the-word-august-2025/admiral-sets-aside-50m-for-customer-compensation"
+        },
+        {
+          "type": "hiring",
+          "detail": "Admiral posted 'Head of Product – Contact Centre Capability' (Cardiff) tied to a 'newly implemented Genesys Cloud platform' - a fresh AI-ready cloud contact-centre stack.",
+          "date": "2025-26 (posting expired)",
+          "source_url": "https://www.admiraljobs.co.uk/job/head-of-product-contact-centre-capability-in-cardiff-jid-2690"
+        },
+        {
+          "type": "leadership-change",
+          "detail": "Alistair Hargreaves (ex-COO UK Insurance) appointed CEO of Admiral UK Insurance, succeeding Cristina Nestares.",
+          "date": "Announced October 2024",
+          "source_url": "https://www.insurancebusinessmag.com/uk/news/breaking-news/admiral-group-gets-new-uk-insurance-ceo-508843.aspx"
+        }
+      ],
+      "buyer": {
+        "role": "CEO, Admiral UK Insurance",
+        "name": null,
+        "source_url": null
+      },
+      "buyers": [
+        {
+          "name": "Alistair Hargreaves",
+          "title": "CEO, Admiral UK Insurance",
+          "linkedin": null,
+          "one_liner": "New UK Insurance CEO from Oct 2024 with an operations/COO background; sets budget and mandate for contact-centre and CX transformation.",
+          "source": "https://www.insurancebusinessmag.com/uk/news/breaking-news/admiral-group-gets-new-uk-insurance-ceo-508843.aspx",
+          "confidence": "high"
+        },
+        {
+          "name": "Matt Harris",
+          "title": "UK Customer Director, Admiral Group",
+          "linkedin": "https://uk.linkedin.com/in/mattharris10",
+          "one_liner": "Owns UK customer function and brand/marketing in Greater Cardiff - natural economic buyer for customer-experience / voice CX initiatives.",
+          "source": "https://uk.linkedin.com/in/mattharris10",
+          "confidence": "medium"
+        }
+      ],
+      "intent_score": 60,
+      "score_rationale": "Computed live from signals, pain, fit and evidence.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "Large Cardiff contact centre; new Genesys Cloud (AI-ready); FOS most-complained + £50m redress wave = high inbound volume."
+      },
+      "why_now": "Admiral has just stood up a new Genesys Cloud contact-centre platform and is hiring to build its capability, while an FCA-driven £50m write-off redress programme floods phone lines - the high-volume, wait-pressured inbound that conversational voice AI absorbs.",
+      "target_role": "Chief Customer Officer",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions.",
+      "feed_query": "\"Admiral\" (insurance OR car insurance) (customer service OR complaints OR claims OR contact centre)"
+    },
+    {
+      "company": "Direct Line Group",
+      "sector": "UK Insurance",
+      "voice_pain": {
+        "metric": "Customer-reported phone waits (Trustpilot)",
+        "value": "Up to 45-minute holds; missed callbacks",
+        "date": "Trustpilot, 2026",
+        "source_url": "https://uk.trustpilot.com/review/www.directline.com"
+      },
+      "quotes": [
+        {
+          "text": "It took me 45 minutes to speak to someone that couldn't help.",
+          "source_url": "https://www.trustpilot.com/review/www.directline.com"
+        },
+        {
+          "text": "Kept on hold for absolutely ages at every time of day — requested a callback that never came.",
+          "source_url": "https://uk.trustpilot.com/review/www.directline.com?page=3"
+        }
+      ],
+      "intent_signals": [
+        {
+          "type": "leadership-change",
+          "detail": "Aviva completed its £3.7bn acquisition of Direct Line Group (effective 1 July 2025), creating the UK's largest motor and home insurer (~20m customers) - a major integration trigger with CX-consolidation pressure.",
+          "date": "Completed 1 July 2025",
+          "source_url": "https://www.investegate.co.uk/announcement/rns/direct-line-insurance-group--dlg/aviva-completes-acquisition-of-direct-line/8958714"
+        },
+        {
+          "type": "leadership-change",
+          "detail": "Post-merger leadership named: Jason Storah CEO combined UK GI, Owen Morris CEO UK Personal Lines, Charlotte Moran Chief of Customer Operations, Martin Milliner over Claims.",
+          "date": "2 July 2025",
+          "source_url": "https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-confirms-new-leadership-team-after-direct-line-merger-541168.aspx"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "FCA's first formal voluntary past-business review of its pricing rules applied to DLG - Consumer-Duty scrutiny on customer outcomes.",
+          "date": "Agreed Sept 2023",
+          "source_url": "https://www.fca.org.uk/news/statements/direct-line-carry-out-past-business-review-relating-fcas-pricing-rules"
+        }
+      ],
+      "buyer": {
+        "role": "Chief of Customer Operations, DLG",
+        "name": null,
+        "source_url": null
+      },
+      "buyers": [
+        {
+          "name": "Charlotte Moran",
+          "title": "Chief of Customer Operations, Direct Line Group",
+          "linkedin": null,
+          "one_liner": "Named to lead customer operations in the post-Aviva-merger team (Jul 2025) - direct owner of contact-centre service performance and natural economic buyer.",
+          "source": "https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-confirms-new-leadership-team-after-direct-line-merger-541168.aspx",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martin Milliner",
+          "title": "Claims leadership, Direct Line Group",
+          "linkedin": null,
+          "one_liner": "Holds claims leadership in the merged structure; claims lines are DLG's biggest source of phone-wait and FOS complaints - key co-buyer for claims-line voice automation.",
+          "source": "https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-confirms-new-leadership-team-after-direct-line-merger-541168.aspx",
+          "confidence": "medium"
+        }
+      ],
+      "intent_score": 58,
+      "score_rationale": "Computed live from signals, pain, fit and evidence.",
+      "scale": "large",
+      "fit": {
+        "level": "high",
+        "flags": "Multi-brand (Direct Line, Churchill, Green Flag), ~20m customers, documented phone-wait/claims pain, mid-integration synergy mandate."
+      },
+      "why_now": "Aviva's £3.7bn takeover (completed 1 July 2025) put a new customer-ops and claims team under pressure to cut cost and synergise service across three brands - just as phone-wait complaints and Consumer Duty make automating high-volume voice a board priority.",
+      "target_role": "Chief Customer Officer",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions.",
+      "feed_query": "\"Direct Line\" (insurance OR Churchill) (customer service OR complaints OR claims)"
+    },
+    {
+      "company": "Hastings Direct",
+      "sector": "UK Insurance",
+      "voice_pain": {
+        "metric": "Which? car-insurance claims-service score (near bottom)",
+        "value": "Claims service 71% - 12th of 14 insurers (Which?)",
+        "date": "Which?, accessed June 2026",
+        "source_url": "https://www.which.co.uk/money/insurance/car-insurance/car-insurance/hastings-direct-car-insurance-review-aMQd53b7IwK2"
+      },
+      "quotes": [],
+      "intent_signals": [
+        {
+          "type": "ai-cx-announcement",
+          "detail": "Consolidated its 3-country contact-centre operation onto NiCE CXone cloud CCaaS; reports a 26% annualised productivity gain and an IVR change cutting transfers by ~3% - a modernising, AI-adjacent voice stack.",
+          "date": "Case study 24 Oct 2023",
+          "source_url": "https://www.nice.com/press-releases/hastings-direct-standardizes-cx-operations-on-cxone-and-boosts-agent-productivity-and-engagement"
+        },
+        {
+          "type": "ai-cx-announcement",
+          "detail": "CIO Sasha Jory frames AI, data and cloud as a 'superpower', already using AI in underwriting and customer queries - pro-AI, with voice/call automation a stated frontier.",
+          "date": "5 Aug 2024",
+          "source_url": "https://www.itpro.com/business/business-strategy/hastings-direct-will-use-ai-data-and-the-cloud-as-a-superpower-to-combat-fraud-and-offer-better-value-for-good-customers"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "FOS received 158,900 new complaints in H1 2025 (up from 133,000 H1 2024); FCA pressed on car-insurance claim 'lowballing' - raising the cost of poor claims-line handling for motor insurers.",
+          "date": "FOS H1 2025",
+          "source_url": "https://www.financial-ombudsman.org.uk/news/motor-and-building-insurance-complaints-hit-five-year-high"
+        }
+      ],
+      "buyer": {
+        "role": "Chief Information Officer",
+        "name": null,
+        "source_url": null
+      },
+      "buyers": [
+        {
+          "name": "Sasha Jory",
+          "title": "Chief Information Officer (CIO)",
+          "linkedin": null,
+          "one_liner": "CIO publicly championing AI/data/cloud as a 'superpower' and already deploying AI in customer queries and chatbots - technical sponsor/budget-holder for a voice-AI rollout.",
+          "source": "https://www.itpro.com/business/business-strategy/hastings-direct-will-use-ai-data-and-the-cloud-as-a-superpower-to-combat-fraud-and-offer-better-value-for-good-customers",
+          "confidence": "high"
+        }
+      ],
+      "intent_score": 52,
+      "score_rationale": "Computed live from signals, pain, fit and evidence.",
+      "scale": "large",
+      "fit": {
+        "level": "high",
+        "flags": "~2,500 agents on modern cloud CCaaS (voice-AI integrates, not rip-and-replace); documented phone-access pain + weak claims scores; pro-AI CIO."
+      },
+      "why_now": "Hastings just standardised its contact centre on cloud CCaaS with a CIO framing AI as a 'superpower', yet customers still 'cant get through on phone' and Which? ranks its claims line near the bottom - an unsolved gap voice AI fills under Consumer Duty / FOS pressure.",
+      "target_role": "Chief Customer Officer",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions.",
+      "feed_query": "\"Hastings Direct\" (insurance) (customer service OR complaints OR claims OR contact centre)"
+    },
+    {
+      "company": "Saga",
+      "sector": "UK Insurance",
+      "voice_pain": {
+        "metric": "% of GI complaints upheld (Saga's own FCA-mandated disclosure)",
+        "value": "52.1% of GI complaints upheld",
+        "date": "1 Aug 2025 – 31 Jan 2026 (Saga Services Ltd)",
+        "source_url": "https://www.saga.co.uk/complaints-data"
+      },
+      "quotes": [],
+      "intent_signals": [
+        {
+          "type": "ai-cx-announcement",
+          "detail": "Saga + Ageas launched a 20-year Affinity Insurance Partnership; Ageas takes over pricing, underwriting, claims AND customer service for Motor (live 2025) and Home (Q1 2026) while Saga retains customer ownership - putting Saga's remaining contact-centre estate in focus.",
+          "date": "Motor live 2025, Home Q1 2026",
+          "source_url": "https://www.ageas.co.uk/press-releases/2025/ageas-saga-launch-20-year-affinity-partnership-motor-live-home-to-follow/"
+        },
+        {
+          "type": "hiring",
+          "detail": "Saga Insurance recruited a 'Head of Customer Experience' (£75k-£80k, Folkestone) to own end-to-end journey mapping 'across all contact channels to identify friction points'.",
+          "date": "Closed 23 April 2026",
+          "source_url": "https://careershub.saga.co.uk/members/modules/job/detail.php?record=3444"
+        },
+        {
+          "type": "ai-cx-announcement",
+          "detail": "Saga engaged Sabio for 24x7 support of its Avaya estate, building a 'customer engagement technology roadmap'. Discloses scale: 4.6m insurance calls/year, 1,000+ agents.",
+          "date": "16 January 2025",
+          "source_url": "https://sabiogroup.com/news/saga-selects-sabio-for-critical-customer-contact-centre-support/"
+        }
+      ],
+      "buyer": {
+        "role": "CEO, Saga Insurance",
+        "name": null,
+        "source_url": null
+      },
+      "buyers": [
+        {
+          "name": "Lloyd East",
+          "title": "CEO, Saga Insurance",
+          "linkedin": "https://www.linkedin.com/in/lloyd-east-bb56b31/",
+          "one_liner": "Became Insurance CEO Feb 2025; 30+ years in insurance (RSA, the AA) - owns the P&L pressure from 52% upheld complaints and the Ageas transition.",
+          "source": "https://corporate.saga.co.uk/about-us/executive-management/",
+          "confidence": "high"
+        },
+        {
+          "name": "David Palmer",
+          "title": "Chief Information Officer, Saga plc",
+          "linkedin": null,
+          "one_liner": "Joined March 2023; owns the contact-centre technology estate (Avaya/Sabio) and engagement roadmap.",
+          "source": "https://corporate.saga.co.uk/about-us/executive-management/",
+          "confidence": "medium"
+        }
+      ],
+      "intent_score": 55,
+      "score_rationale": "Computed live from signals, pain, fit and evidence.",
+      "scale": "large",
+      "fit": {
+        "level": "high",
+        "flags": "4.6m insurance calls/yr, 1,000+ agents, phone-first over-50s demographic, 52% complaints upheld + 30-60min holds - classic voice-deflection use case."
+      },
+      "why_now": "Saga is mid-restructure: the 20-year Ageas deal offloads volume ops while Saga keeps customer ownership, it just hired a Head of CX to map friction across 'all contact channels', and its own data shows 52.1% of GI complaints upheld with 30-60 minute holds - making voice AI a timely lever on a 4.6m-call channel.",
+      "target_role": "Chief Customer Officer",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions.",
+      "feed_query": "\"Saga\" (insurance) (customer service OR complaints OR claims OR contact centre)"
+    },
+    {
+      "company": "AXA UK",
+      "sector": "UK Insurance",
+      "voice_pain": {
+        "metric": "FOS complaints uphold rate - worst of 5 major insurers analysed",
+        "value": "34% FOS uphold rate - worst of 5 big insurers",
+        "date": "Insurance Times analysis, Jul 2023 (FOS to Q1 2023)",
+        "source_url": "https://www.insurancetimes.co.uk/analysis/how-are-the-top-insurers-faring-on-complaints-handling/1444969.article"
+      },
+      "quotes": [],
+      "intent_signals": [
+        {
+          "type": "leadership-change",
+          "detail": "AXA UK & Ireland appointed Louise Isaacs as Chief Customer & Communications Officer (joined Jul 2025), overseeing Customer, Comms, Brand and Sustainability, reporting to CEO Tara Foley.",
+          "date": "Announced 3 September 2025",
+          "source_url": "https://www.axa.co.uk/newsroom/media-releases/2025/axa-uk-ireland-announces-two-appointments-to-management-committee/"
+        },
+        {
+          "type": "regulatory-pressure",
+          "detail": "Which? filed an FCA super-complaint (23 Sep 2025) over home/travel insurance claims and outsourced-claims oversight; separately the FCA told AXA Partners UK it cannot grow its customer base without written approval.",
+          "date": "23 September 2025",
+          "source_url": "https://www.postonline.co.uk/personal/7959576/axa-partners-hit-with-FCA-limitations"
+        }
+      ],
+      "buyer": {
+        "role": "Chief Customer & Communications Officer, AXA UK & Ireland",
+        "name": null,
+        "source_url": null
+      },
+      "buyers": [
+        {
+          "name": "Louise Isaacs",
+          "title": "Chief Customer & Communications Officer, AXA UK & Ireland",
+          "linkedin": null,
+          "one_liner": "Joined Jul 2025 to own Customer, Comms, Brand and Sustainability across AXA UK&I; 20+ years at Barclays, Cigna and Amex; reports to CEO Tara Foley - most senior owner of the CX mandate.",
+          "source": "https://www.axa.co.uk/chief-customer-and-communications-officer/",
+          "confidence": "high"
+        },
+        {
+          "name": "Chris Morrow",
+          "title": "Head of CX & Digital, AXA UK",
+          "linkedin": "https://uk.linkedin.com/in/chrisbmorrow",
+          "one_liner": "Leads CX and digital at AXA UK (Portsmouth); e-commerce/UX background - operational owner of digital/CX channels and likely day-to-day evaluator for contact-centre AI.",
+          "source": "https://uk.linkedin.com/in/chrisbmorrow",
+          "confidence": "medium"
+        }
+      ],
+      "intent_score": 57,
+      "score_rationale": "Computed live from signals, pain, fit and evidence.",
+      "scale": "mega",
+      "fit": {
+        "level": "high",
+        "flags": "Large UK contact-centre footprint (motor/home/health); phone-wait + claims pain; already an Azure OpenAI adopter (low platform friction); new CX leadership."
+      },
+      "why_now": "A new Chief Customer Officer (Sep 2025) is taking ownership of the customer agenda just as AXA faces FCA / Consumer-Duty pressure (Which? super-complaint, AXA Partners growth restriction) and persistent complaints about long phone waits - a clear trigger for voice AI to cut wait times.",
+      "target_role": "Chief Customer Officer",
+      "icp_motion": "direct",
+      "icp_note": "Direct sale - ElevenAgents for their own contact centre (Revolut model): land one high-volume workflow, prove the ROI (~8× faster resolution), expand across call types, languages and regions.",
+      "feed_query": "\"AXA UK\" (insurance) (customer service OR complaints OR claims)"
+    }
+  ],
+  "thin": [
+    {
+      "company": "Tru Energy",
+      "reason": "Hard call-wait metric only (276s, plus extreme historic 1,121s); no real customer quote, no intent signal, and no named buyer in contacts."
+    },
+    {
+      "company": "E.ON Next",
+      "reason": "Decent call-wait metric (123s) but no quote, no intent signal, and no named CX leader."
+    },
+    {
+      "company": "ScottishPower",
+      "reason": "Metric only (76s) with named Retail Director, but no quote and no intent signal."
+    },
+    {
+      "company": "Utilita",
+      "reason": "Metric only (60s); no quote, no intent signal, no named buyer."
+    },
+    {
+      "company": "Direct Line",
+      "reason": "Real quotes but no metric, no intent signal, no named buyer; now part of Aviva so buyer ambiguous."
+    },
+    {
+      "company": "Admiral",
+      "reason": "One real quote but no metric, no intent signal, and the only named buyer (Brian Martin) is from a 2021 source needing re-verification."
+    },
+    {
+      "company": "Lyca Mobile / iD Mobile",
+      "reason": "Ofcom wait metrics only (2m 56s / 1m 33s); no quotes, no intent signals, no named buyers."
+    },
+    {
+      "company": "Plusnet",
+      "reason": "Fast metric (50s), no quote, no Plusnet-specific intent (BT Group AI announcement names BT/EE only); shares Nick Lane as buyer."
+    },
+    {
+      "company": "Boost / Giffgaff",
+      "reason": "No current voice-pain metric or quote (reported under OVO / O2 respectively); only outdated 2020 mystery-shop figure exists for Boost."
+    },
+    {
+      "company": "Sky / NOW Broadband / Vodafone (call metric)",
+      "reason": "Note: included Sky and Vodafone on intent/regulatory strength, but their raw call-wait metrics are actually fast — the pain is complaints/NPS/complaint-handling, not hold time. NOW Broadband excluded entirely (fast metric, no quote, no intent)."
+    }
+  ]
+}
