@@ -253,6 +253,10 @@ export function Console({ companies, asOf, live }: Props) {
 
   return (
     <div className="wrap">
+      <p className="demo">
+        <b>Demo.</b> Built in June 2026 as a working example for a job application at ElevenLabs. Not a product,
+        and not made or endorsed by ElevenLabs. Companies and figures come from public sources.
+      </p>
       <div className="top">
         <span className="brand">Eleven<b>Ears</b></span>
         <span className="asof">
@@ -334,7 +338,7 @@ export function Console({ companies, asOf, live }: Props) {
         it moves the board as stories break, and &ldquo;most active&rdquo; ranks by it. The pain evidence is curated
         from public regulator and review sources and labelled with its date. Buyer names are real and verified to a
         primary source. Drafts are never sent - they&rsquo;re a starting line, not an outbox.<br />
-        A workflow experiment that shows how I&rsquo;d find ElevenLabs&rsquo; next UK customers - not a finished product.
+        A demo built for a job application at ElevenLabs, showing how I&rsquo;d find their next UK customers. Not a product, and not made or endorsed by ElevenLabs.
       </footer>
     </div>
   );
