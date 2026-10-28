@@ -1,12 +1,14 @@
 # ElevenEars
 
-**Live: [elevenears.vercel.app](https://elevenears.vercel.app)**
+**Live demo: [elevenears.vercel.app](https://elevenears.vercel.app)**
 
-A live radar that ranks UK enterprises by customer-service pain, the strongest buying signal for AI voice agents.
+> **A demo, not a product.** I built ElevenEars in June 2026 as a working example for a job application at ElevenLabs. It is not a commercial product, has no users or customers, and is not made, endorsed or used by ElevenLabs. The companies, figures and named leaders come from public sources and are shown to illustrate the method. The outreach lines are examples and were never sent.
+
+A demo radar that ranks UK enterprises by customer-service pain, the strongest buying signal for AI voice agents.
 
 Sales tools such as Clay and Apollo rank prospects by what the company does: hiring, funding, tech stack. ElevenEars ranks them by what the company's customers suffer: long call waits, complaints, regulator findings, outages. That is the moment a business is most likely to buy a voice agent, and no sales tool treats it as a signal.
 
-I built it end to end as a working example of how I approach growth: find an overlooked signal, turn it into a product-specific angle, and make it usable by sales.
+I built it end to end to show how I approach growth: find an overlooked signal, turn it into a product-specific angle, and make it usable by sales.
 
 ## What it does
 
@@ -48,4 +50,4 @@ npm run dev
 - `lib/painSources.ts` - daily regulator freshness check (not shown in the current interface)
 - `data/companies.json` - the 26 accounts and their sourced evidence
 
-Built by [James Harrop](https://jamesharrop.co), June 2026.
+Built by [James Harrop](https://jamesharrop.co), June 2026, as a demo for a job application.
